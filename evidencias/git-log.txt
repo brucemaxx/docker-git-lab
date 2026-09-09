@@ -1,30 +1,16 @@
 === GIT LOG ===
-* 85fe37d (HEAD -> main) Extra: adiciona Docker Compose com PostgreSQL e pgAdmin
+* dc07a2a (HEAD -> main) Evidencia: registra historico de commits
+* 85fe37d Extra: adiciona Docker Compose com PostgreSQL e pgAdmin
 * d5bbc6c Fase 2: adiciona servidor web Nginx
 * 26e3e1f Fase 1: documenta build e execucao
 * 0da9b7f Fase 1: adiciona Dockerfile Ubuntu com ping
 
 === GIT STATUS ===
-?? evidencias/git-log.txt
+ M evidencias/git-log.txt
 
-=== GIT SHOW (COMMITS) ===
-commit 0da9b7f
-Author: Dev Bruce <dev.bruce@example.com>
-Date: 2026-09-09 18:26:33 +0000
-Subject: Fase 1: adiciona Dockerfile Ubuntu com ping
-
-commit 26e3e1f
-Author: Dev Bruce <dev.bruce@example.com>
-Date: 2026-09-09 18:26:33 +0000
-Subject: Fase 1: documenta build e execucao
-
-commit d5bbc6c
-Author: Dev Bruce <dev.bruce@example.com>
-Date: 2026-09-09 18:26:33 +0000
-Subject: Fase 2: adiciona servidor web Nginx
-
-commit 85fe37d
-Author: Dev Bruce <dev.bruce@example.com>
-Date: 2026-09-09 18:26:33 +0000
-Subject: Extra: adiciona Docker Compose com PostgreSQL e pgAdmin
-
+=== COMMITS DAS ATIVIDADES ===
+0da9b7f | 2026-09-09 | Fase 1: adiciona Dockerfile Ubuntu com ping
+26e3e1f | 2026-09-09 | Fase 1: documenta build e execucao
+d5bbc6c | 2026-09-09 | Fase 2: adiciona servidor web Nginx
+85fe37d | 2026-09-09 | Extra: adiciona Docker Compose com PostgreSQL e pgAdmin
+dc07a2a | 2026-09-09 | Evidencia: registra historico de commits
