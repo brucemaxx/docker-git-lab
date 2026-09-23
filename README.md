@@ -30,13 +30,11 @@ exit
 
 O diretório `web/` contém um site estático servido pelo Nginx Alpine.
 
-### Build
+### Build da imagem
 
 ```bash
 cd web
 docker build -t web-server:1.0 .
-```
-
 ### Execução com conteúdo dentro da imagem
 
 ```bash
